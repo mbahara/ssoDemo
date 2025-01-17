@@ -25,7 +25,7 @@ At this point, we can access Keycloak's admin console, typically at `http://loca
    Filter by clients in the assign role window to simplify this process.
 5) User Management: Create two users, set credentials for them, and assign the customer group to one user and the admin group to the other user.
 
-
+![Bildschirmfoto 2025-01-17 um 19 00 26](https://github.com/user-attachments/assets/6f7976b6-6db8-4e76-b5e5-db9b0d90f028)
 
 Now, with the backend ready and running, we set up the frontend by navigating to each of the Angular project directories (angular-apps) and
 running the commands from the following script to install all the necessary dependencies and start one Angular project on the default port 4200 and the other on 4201.
